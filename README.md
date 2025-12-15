@@ -1,1 +1,0 @@
-# shimasuke.test_4
